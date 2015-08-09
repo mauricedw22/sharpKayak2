@@ -1,0 +1,1 @@
+var emailMaker = angular.module('emailMakerTool',['ngRoute']);

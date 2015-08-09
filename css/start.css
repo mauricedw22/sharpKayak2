@@ -1,0 +1,39 @@
+
+html{
+
+font-size: 12px;
+
+}
+
+body
+{
+
+display:none;
+
+}
+
+#logo{
+
+width: 30%;
+height: 150px;
+margin-left: 35%;
+
+}
+
+h1{
+	
+font-family: 'Quicksand';
+text-align: center;
+font-size: 2.5em;	
+color: #9ACD32;
+	
+}
+
+p{
+	
+font-family: 'Quicksand';
+text-align: center;
+font-size: 1.5em;
+color: orange;	
+	
+}

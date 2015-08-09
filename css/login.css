@@ -1,0 +1,67 @@
+
+html{
+
+font-size: 12px;
+
+}
+
+body{
+
+display:none;
+
+}
+
+#logo{
+
+width: 30%;
+height: 150px;
+margin-left: 35%;
+
+}
+
+form{
+
+width: 60%;
+margin-left: 20%;
+padding: 3%;
+background: #9ACD32;
+border: 2px outset gray;
+border-radius: 20px;
+box-shadow: 10px 10px 12px gray;
+-webkit-box-shadow: 10px 10px 12px gray;
+-moz-box-shadow: 10px 10px 12px gray;
+
+}
+
+input[type="text"], input[type="password"]{
+
+width: 70%;
+margin-left: 15%;
+
+}
+
+#sub{
+
+width: 30%;
+margin-left: 35%;
+
+}
+
+#status{
+
+color:red;
+text-align: center;
+font-size: 1.5em;
+font-family: 'Rockwell Bold';
+font-style: italic;
+
+}
+
+h1{
+
+font-family: 'Quicksand';
+text-align: center;
+color: #9ACD32;
+font-weight: bold;
+
+}
